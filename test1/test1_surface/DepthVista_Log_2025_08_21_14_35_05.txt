@@ -1,0 +1,939 @@
+2025_08_21_14_35_05  : 
+ initialize called 1
+2025_08_21_14_35_05  : 
+ CoCreateInstance 1
+2025_08_21_14_35_05  : 
+ GetDeviceCount is_init 1
+2025_08_21_14_35_05  : 
+ Inside GDC 1
+2025_08_21_14_35_05  : 
+ Inside GDC 2
+2025_08_21_14_35_05  : 
+ Inside GDC 3
+2025_08_21_14_35_05  : 
+ Inside GDC 4
+2025_08_21_14_35_05  : 
+ Inside GDC 5
+2025_08_21_14_35_05  : 
+ Inside GDC 6
+2025_08_21_14_35_05  : 
+ Inside GDC 7
+2025_08_21_14_35_05  : 
+ Inside GDC 8
+2025_08_21_14_35_05  : 
+ Inside GDC 9
+2025_08_21_14_35_05  : 
+ Inside GDC 10
+2025_08_21_14_35_05  : 
+ Inside GDC 11
+2025_08_21_14_35_05  : 
+ Inside GDC 2
+2025_08_21_14_35_05  : 
+ Inside GDC 3
+2025_08_21_14_35_05  : 
+ Inside GDC 4
+2025_08_21_14_35_05  : 
+ Inside GDC 5
+2025_08_21_14_35_05  : 
+ Inside GDC 6
+2025_08_21_14_35_05  : 
+ Inside GDC 7
+2025_08_21_14_35_05  : 
+ Inside GDC 8
+2025_08_21_14_35_05  : 
+ Inside GDC 9
+2025_08_21_14_35_05  : 
+ Inside GDC 10
+2025_08_21_14_35_05  : 
+ Inside GDC 11
+2025_08_21_14_35_05  : 
+DepthVistaSDK:No of device connected : 1
+2025_08_21_14_35_05  : 
+DepthVistaSDK:Device index is : 0
+2025_08_21_14_35_05  : 
+ Inside GDInfo 1
+2025_08_21_14_35_05  : 
+ Inside GDInfo 2
+2025_08_21_14_35_05  : 
+ Inside GDInfo 3
+2025_08_21_14_35_05  : 
+ Inside GDInfo 4
+2025_08_21_14_35_05  : 
+ Inside GDInfo 5
+2025_08_21_14_35_05  : 
+ Inside GDInfo 6
+2025_08_21_14_35_05  : 
+ Inside GDInfo 7
+2025_08_21_14_35_05  : 
+ Inside GDInfo 8
+2025_08_21_14_35_05  : 
+ Inside GDInfo 9
+2025_08_21_14_35_05  : 
+ Inside GDInfo 10
+2025_08_21_14_35_05  : 
+ Inside GDInfo 11
+2025_08_21_14_35_05  : 
+ Inside GDInfo 12
+2025_08_21_14_35_05  : 
+ Inside GDInfo 13
+2025_08_21_14_35_05  : 
+ Inside GDInfo 14
+2025_08_21_14_35_05  : 
+ Inside GDInfo 15
+2025_08_21_14_35_05  : 
+ Inside GDInfo 16
+2025_08_21_14_35_05  : 
+ Inside GDInfo 17
+2025_08_21_14_35_05  : 
+ Inside GDInfo 18
+2025_08_21_14_35_05  : 
+ Inside GDInfo 19
+2025_08_21_14_35_05  : 
+ Inside GDInfo 20
+2025_08_21_14_35_05  : 
+ Inside GDInfo 21
+2025_08_21_14_35_05  : 
+ Inside GDInfo 4
+2025_08_21_14_35_05  : 
+ Inside GDInfo 5
+2025_08_21_14_35_05  : 
+ Inside GDInfo 6
+2025_08_21_14_35_05  : 
+ Inside GDInfo 7
+2025_08_21_14_35_05  : 
+ Inside GDInfo 8
+2025_08_21_14_35_05  : 
+ Inside GDInfo 9
+2025_08_21_14_35_05  : 
+ Inside GDInfo 10
+2025_08_21_14_35_05  : 
+ Inside GDInfo 11
+2025_08_21_14_35_05  : 
+ Inside GDInfo 19
+2025_08_21_14_35_05  : 
+ Inside GDInfo 20
+2025_08_21_14_35_05  : 
+ Inside GDInfo 21
+2025_08_21_14_35_05  : 
+DepthVistaSDK:Device Name is : See3CAM_TOF_25CUG
+2025_08_21_14_35_05  : 
+Serial Num of the Camera : 2B483752
+2025_08_21_14_35_05  : 
+ Initialize is_init 1
+2025_08_21_14_35_05  : 
+ GetDeviceCount is_init 1
+2025_08_21_14_35_05  : 
+ Inside GDC 1
+2025_08_21_14_35_05  : 
+ Inside GDC 2
+2025_08_21_14_35_05  : 
+ Inside GDC 3
+2025_08_21_14_35_05  : 
+ Inside GDC 4
+2025_08_21_14_35_05  : 
+ Inside GDC 5
+2025_08_21_14_35_05  : 
+ Inside GDC 6
+2025_08_21_14_35_05  : 
+ Inside GDC 7
+2025_08_21_14_35_05  : 
+ Inside GDC 8
+2025_08_21_14_35_05  : 
+ Inside GDC 9
+2025_08_21_14_35_05  : 
+ Inside GDC 10
+2025_08_21_14_35_05  : 
+ Inside GDC 11
+2025_08_21_14_35_05  : 
+ Inside GDC 2
+2025_08_21_14_35_05  : 
+ Inside GDC 3
+2025_08_21_14_35_05  : 
+ Inside GDC 4
+2025_08_21_14_35_05  : 
+ Inside GDC 5
+2025_08_21_14_35_05  : 
+ Inside GDC 6
+2025_08_21_14_35_05  : 
+ Inside GDC 7
+2025_08_21_14_35_05  : 
+ Inside GDC 8
+2025_08_21_14_35_05  : 
+ Inside GDC 9
+2025_08_21_14_35_05  : 
+ Inside GDC 10
+2025_08_21_14_35_05  : 
+ Inside GDC 11
+2025_08_21_14_35_05  : 
+DepthVistaSDK:No of device connected : 1
+2025_08_21_14_35_05  : 
+ Inside GDInfo 1
+2025_08_21_14_35_05  : 
+ Inside GDInfo 2
+2025_08_21_14_35_05  : 
+ Inside GDInfo 3
+2025_08_21_14_35_05  : 
+ Inside GDInfo 4
+2025_08_21_14_35_05  : 
+ Inside GDInfo 5
+2025_08_21_14_35_05  : 
+ Inside GDInfo 6
+2025_08_21_14_35_05  : 
+ Inside GDInfo 7
+2025_08_21_14_35_05  : 
+ Inside GDInfo 8
+2025_08_21_14_35_05  : 
+ Inside GDInfo 9
+2025_08_21_14_35_05  : 
+ Inside GDInfo 10
+2025_08_21_14_35_05  : 
+ Inside GDInfo 11
+2025_08_21_14_35_05  : 
+ Inside GDInfo 12
+2025_08_21_14_35_05  : 
+ Inside GDInfo 13
+2025_08_21_14_35_05  : 
+ Inside GDInfo 14
+2025_08_21_14_35_05  : 
+ Inside GDInfo 15
+2025_08_21_14_35_05  : 
+ Inside GDInfo 16
+2025_08_21_14_35_05  : 
+ Inside GDInfo 17
+2025_08_21_14_35_05  : 
+ Inside GDInfo 18
+2025_08_21_14_35_05  : 
+ Inside GDInfo 19
+2025_08_21_14_35_05  : 
+ Inside GDInfo 20
+2025_08_21_14_35_05  : 
+ Inside GDInfo 21
+2025_08_21_14_35_05  : 
+ Inside GDInfo 4
+2025_08_21_14_35_05  : 
+ Inside GDInfo 5
+2025_08_21_14_35_05  : 
+ Inside GDInfo 6
+2025_08_21_14_35_05  : 
+ Inside GDInfo 7
+2025_08_21_14_35_05  : 
+ Inside GDInfo 8
+2025_08_21_14_35_05  : 
+ Inside GDInfo 9
+2025_08_21_14_35_05  : 
+ Inside GDInfo 10
+2025_08_21_14_35_05  : 
+ Inside GDInfo 11
+2025_08_21_14_35_05  : 
+ Inside GDInfo 19
+2025_08_21_14_35_05  : 
+ Inside GDInfo 20
+2025_08_21_14_35_05  : 
+ Inside GDInfo 21
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen false CameraNotOpened
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Parent Property value: USB\VID_2560&PID_C12D&MI_02\6&2b483752&0&0002
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_35_09  : 
+DepthVistaSDK:after FindEndpointBound
+wcscmp(g_HIDInstanceID, g_USBInstanceID)
+2025_08_21_14_35_09  : 
+DepthVistaSDK:IN IN_OUTBOUND
+2025_08_21_14_35_09  : 
+DepthVistaSDK:HID: InitExtensionUnit: Write Handle Set 
+2025_08_21_14_35_09  : 
+DepthVistaSDK:HID: InitExtensionUnit: Read Handle Set 
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Parent Property value: ACPI\INTC1077\2&daba3ff&0
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Parent Property value: ButtonConverter\ConvertedDevice\4&17172862&0&0
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Parent Property value: ACPI\INTC1077\2&daba3ff&0
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_35_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Parent Property value: USB\VID_2560&PID_C12D&MI_03\6&2b483752&0&0003
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_35_10  : 
+DepthVistaSDK:after FindEndpointBound
+wcscmp(g_HIDInstanceID, g_USBInstanceID)
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Before OUTBOUND
+2025_08_21_14_35_10  : 
+DepthVistaSDK:both handles are opened
+2025_08_21_14_35_10  : 
+DepthVistaSDK:HID open success 1
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Board Config Data : 112101122311111111011
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::CoCreateInstance -- passed
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::CreateClassEnumerator -- passed
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::Reset -- passed
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::pEm->Next -- passed
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::pM->BindToStorage -- passed
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::checking device path
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::pM->wcscmp -- passed
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::pM->KSTopologyInitialize -- passed
+2025_08_21_14_35_10  : 
+DepthVistaSDK:InitExtensionunit :: IksControlInitialize passed....
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::pM->BindToObject hr value : 0
+2025_08_21_14_35_10  : 
+DepthVistaSDK:DeviceManager::pM->BindToObject hr success
+2025_08_21_14_35_10  : 
+ pCreateDevEnum->Release 1
+2025_08_21_14_35_10  : 
+DepthVistaSDK:UVC open success 1
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_35_10  : 
+DepthVistaSDK:width is 1280
+Height is 600
+2025_08_21_14_35_10  : 
+DepthVistaSDK:uNum is 30
+uDeno is 1
+2025_08_21_14_35_10  : 
+DepthVistaSDK:PixFormat is Y16
+2025_08_21_14_35_10  : 
+DepthVistaSDK:getFormat success and format is 1
+2025_08_21_14_35_10  : 
+DepthVistaSDK:width is 1280
+Height is 600
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_35_10  : 
+DepthVistaSDK:CAM open success 1
+2025_08_21_14_35_10  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_35_10  : 
+DepthVistaSDK:width is 1280
+Height is 600
+2025_08_21_14_35_10  : 
+DepthVistaSDK:uNum is 30
+uDeno is 1
+2025_08_21_14_35_10  : 
+DepthVistaSDK:PixFormat is Y16
+2025_08_21_14_35_10  : 
+DepthVistaSDK:format : 1
+2025_08_21_14_35_10  : 
+DepthVistaSDK:OpenDevice - GetDataMode success 4
+2025_08_21_14_35_10  : 
+DepthVistaSDK:OnReadSample::pSample is failed
+2025_08_21_14_35_10  : 
+DepthVistaSDK:OpenDevice - GetDepthRange success 0
+2025_08_21_14_35_11  : 
+DepthVistaSDK:ReadCalibrationData Data Write Success
+2025_08_21_14_35_11  : 
+DepthVistaSDK:ReadTOFCalibrationData success g_out_packet_buf[ARRAY_ELEMENT_6] = 1
+2025_08_21_14_35_11  : 
+DepthVistaSDK:ReadTOFCalibrationData success g_out_packet_buf[ARRAY_ELEMENT_6] = 1
+2025_08_21_14_35_11  : 
+DepthVistaSDK:ReadTOFCalibrationData success g_out_packet_buf[ARRAY_ELEMENT_6] = 1
+2025_08_21_14_35_11  : 
+DepthVistaSDK:ReadTOFCalibrationData success g_out_packet_buf[ARRAY_ELEMENT_6] = 1
+2025_08_21_14_35_11  : 
+DepthVistaSDK:ReadTOFCalibrationData Return true
+2025_08_21_14_35_11  : 
+DepthVistaSDK:OpenDevice - TOF calibration data read success
+2025_08_21_14_35_11  : 
+DepthVistaSDK:depthIntrinsicFlag : -1
+2025_08_21_14_35_11  : 
+DepthVistaSDK:rgbIntrinsicFlag : -1
+2025_08_21_14_35_11  : 
+DepthVistaSDK:stereoExtrinsicFlag : -1
+2025_08_21_14_35_11  : 
+DepthVistaSDK:width is 1280
+Height is 600
+2025_08_21_14_35_11  : 
+DepthVistaSDK:uNum is 30
+uDeno is 1
+2025_08_21_14_35_11  : 
+DepthVistaSDK:PixFormat is Y16
+2025_08_21_14_35_11  : 
+DepthVistaSDK:format : 1
+2025_08_21_14_35_12  : 
+DepthVistaSDK:Maxlength in setup frame is 4608000
+2025_08_21_14_35_12  : 
+DepthVistaSDK:Maxlength in GetNextFrame is 4608000
+2025_08_21_14_35_12  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_13  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_14  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_15  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_19  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_21  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_26  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_27  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_29  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_30  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_32  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_34  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_35  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_37  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_38  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_39  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_41  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_43  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_45  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_47  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_49  :  Cam: 0FPS in device : 31
+2025_08_21_14_35_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_35_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_02  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_36_02  : 
+DepthVistaSDK:Stopping stream in sdk success
+2025_08_21_14_36_02  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_02  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_02  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_03  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_03  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_03  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_03  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_03  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_04  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_04  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_04  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_04  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_04  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_04  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_36_04  : 
+DepthVistaSDK:try_format success and format is 1
+2025_08_21_14_36_04  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_36_05  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_05  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_05  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_05  :  Cam: 0FPS in device : 9
+2025_08_21_14_36_05  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_07  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_08  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_09  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_10  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_11  :  Cam: 0FPS in device : 31
+2025_08_21_14_36_12  :  Cam: 0FPS in device : 31
+2025_08_21_14_36_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_14  :  Cam: 0FPS in device : 31
+2025_08_21_14_36_15  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_21  :  Cam: 0FPS in device : 31
+2025_08_21_14_36_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_26  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_27  :  Cam: 0FPS in device : 30
+2025_08_21_14_36_28  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_36_28  : 
+DepthVistaSDK:Stopping stream in sdk success
+2025_08_21_14_36_28  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_28  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_28  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_29  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_29  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_29  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_29  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_30  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_30  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_30  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_30  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_30  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_31  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_31  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_31  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_31  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_31  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_32  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_32  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_32  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_32  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_32  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_33  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_33  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_33  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_33  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_33  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_34  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_34  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_34  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_34  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_34  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_35  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_35  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_35  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_35  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_35  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_35  : 
+DepthVistaSDK:Error: The I/O operation has been aborted because of either a thread exit or an application request.
+2025_08_21_14_36_35  : 
+DepthVistaSDK:Unable to obtain extension unit -2147023901
+2025_08_21_14_36_35  : 
+DepthVistaSDK:SetDepthRange - getdepthrange failed
+2025_08_21_14_36_35  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_36_35  : 
+DepthVistaSDK:try_format success and format is 1
+2025_08_21_14_36_35  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_36_36  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_36  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_36  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_36  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_36  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_37  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_37  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_37  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_37  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_38  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_38  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_38  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_38  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_38  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_39  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_39  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_39  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_39  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_39  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_40  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_40  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_40  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_40  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_40  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_40  : 
+DepthVistaSDK:OnReadSample::hrStatus is failed
+2025_08_21_14_36_40  : 
+DepthVistaSDK:OnReadSample::hrStatus is failed
+2025_08_21_14_36_41  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_41  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_41  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_41  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_41  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_42  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_42  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_42  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_42  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_42  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_43  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_43  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_43  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_43  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_43  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_44  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_44  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_44  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_44  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_44  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_45  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_45  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_45  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_45  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_45  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_46  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_46  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_46  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_46  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_47  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_47  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_47  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_47  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_47  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_48  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_48  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_48  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_48  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_48  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_49  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_49  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_49  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_49  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_49  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_50  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_50  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_50  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_50  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_50  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_51  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_51  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_51  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_51  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_51  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_52  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_52  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_52  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_52  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_52  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_53  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_53  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_53  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_53  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_54  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_54  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_54  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_54  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_54  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_55  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_55  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_55  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_55  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_55  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_56  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_56  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_56  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_56  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_56  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_57  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_57  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_57  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_57  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_57  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_58  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_58  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_58  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_58  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_58  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_59  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_59  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_59  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_59  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_36_59  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_00  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_00  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_00  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_00  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_01  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_01  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_01  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_01  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_01  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_02  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_02  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_02  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_02  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_02  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_03  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_03  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Inside Closedevice  1
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Inside Closedevice  1.5
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Inside Closedevice  2
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Inside Closedevice 3
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Flush Failed
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Stopping stream in sdk success
+2025_08_21_14_37_03  :  Cam: 0After m_videoSourceReader
+
+
+2025_08_21_14_37_03  :  Cam: 0After m_videoSource
+
+
+2025_08_21_14_37_03  : 
+DepthVistaSDK:before closeCAM : 1
+2025_08_21_14_37_03  : 
+DepthVistaSDK:before closeHID : -7
+2025_08_21_14_37_03  : 
+DepthVistaSDK:before closeUVC : -7
+2025_08_21_14_37_03  : 
+ after CoUninitialize
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Inside Closedevice  1
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Inside Closedevice  1.5
+2025_08_21_14_37_03  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen false CameraNotOpened
+2025_08_21_14_37_03  : 
+
+DepthVistaSDK: Before wrapperObj pop back maxDeviceCount : 1cam.size : 1
+2025_08_21_14_37_03  : 
+ pCreateDevEnum->Release 1
+2025_08_21_14_37_03  : 
+ after deinitialize

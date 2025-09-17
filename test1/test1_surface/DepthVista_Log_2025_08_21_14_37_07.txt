@@ -1,0 +1,349 @@
+2025_08_21_14_37_07  : 
+ initialize called 1
+2025_08_21_14_37_07  : 
+ CoCreateInstance 1
+2025_08_21_14_37_07  : 
+ GetDeviceCount is_init 1
+2025_08_21_14_37_07  : 
+ Inside GDC 1
+2025_08_21_14_37_07  : 
+ Inside GDC 2
+2025_08_21_14_37_07  : 
+ Inside GDC 3
+2025_08_21_14_37_07  : 
+ Inside GDC 4
+2025_08_21_14_37_07  : 
+ Inside GDC 5
+2025_08_21_14_37_07  : 
+ Inside GDC 6
+2025_08_21_14_37_07  : 
+ Inside GDC 7
+2025_08_21_14_37_07  : 
+ Inside GDC 8
+2025_08_21_14_37_07  : 
+ Inside GDC 9
+2025_08_21_14_37_07  : 
+ Inside GDC 10
+2025_08_21_14_37_07  : 
+ Inside GDC 11
+2025_08_21_14_37_07  : 
+ Inside GDC 2
+2025_08_21_14_37_07  : 
+ Inside GDC 3
+2025_08_21_14_37_07  : 
+ Inside GDC 4
+2025_08_21_14_37_07  : 
+ Inside GDC 5
+2025_08_21_14_37_07  : 
+ Inside GDC 6
+2025_08_21_14_37_07  : 
+ Inside GDC 7
+2025_08_21_14_37_07  : 
+ Inside GDC 8
+2025_08_21_14_37_07  : 
+ Inside GDC 9
+2025_08_21_14_37_07  : 
+ Inside GDC 10
+2025_08_21_14_37_07  : 
+ Inside GDC 11
+2025_08_21_14_37_07  : 
+DepthVistaSDK:No of device connected : 1
+2025_08_21_14_37_07  : 
+DepthVistaSDK:Device index is : 0
+2025_08_21_14_37_07  : 
+ Inside GDInfo 1
+2025_08_21_14_37_07  : 
+ Inside GDInfo 2
+2025_08_21_14_37_07  : 
+ Inside GDInfo 3
+2025_08_21_14_37_07  : 
+ Inside GDInfo 4
+2025_08_21_14_37_07  : 
+ Inside GDInfo 5
+2025_08_21_14_37_07  : 
+ Inside GDInfo 6
+2025_08_21_14_37_07  : 
+ Inside GDInfo 7
+2025_08_21_14_37_07  : 
+ Inside GDInfo 8
+2025_08_21_14_37_07  : 
+ Inside GDInfo 9
+2025_08_21_14_37_07  : 
+ Inside GDInfo 10
+2025_08_21_14_37_07  : 
+ Inside GDInfo 11
+2025_08_21_14_37_07  : 
+ Inside GDInfo 12
+2025_08_21_14_37_07  : 
+ Inside GDInfo 13
+2025_08_21_14_37_07  : 
+ Inside GDInfo 14
+2025_08_21_14_37_07  : 
+ Inside GDInfo 15
+2025_08_21_14_37_07  : 
+ Inside GDInfo 16
+2025_08_21_14_37_07  : 
+ Inside GDInfo 17
+2025_08_21_14_37_07  : 
+ Inside GDInfo 18
+2025_08_21_14_37_07  : 
+ Inside GDInfo 19
+2025_08_21_14_37_07  : 
+ Inside GDInfo 20
+2025_08_21_14_37_07  : 
+ Inside GDInfo 21
+2025_08_21_14_37_07  : 
+ Inside GDInfo 4
+2025_08_21_14_37_07  : 
+ Inside GDInfo 5
+2025_08_21_14_37_07  : 
+ Inside GDInfo 6
+2025_08_21_14_37_07  : 
+ Inside GDInfo 7
+2025_08_21_14_37_07  : 
+ Inside GDInfo 8
+2025_08_21_14_37_07  : 
+ Inside GDInfo 9
+2025_08_21_14_37_07  : 
+ Inside GDInfo 10
+2025_08_21_14_37_07  : 
+ Inside GDInfo 11
+2025_08_21_14_37_07  : 
+ Inside GDInfo 19
+2025_08_21_14_37_07  : 
+ Inside GDInfo 20
+2025_08_21_14_37_07  : 
+ Inside GDInfo 21
+2025_08_21_14_37_07  : 
+DepthVistaSDK:Device Name is : See3CAM_TOF_25CUG
+2025_08_21_14_37_07  : 
+Serial Num of the Camera : 2B483752
+2025_08_21_14_37_07  : 
+ Initialize is_init 1
+2025_08_21_14_37_07  : 
+ GetDeviceCount is_init 1
+2025_08_21_14_37_07  : 
+ Inside GDC 1
+2025_08_21_14_37_07  : 
+ Inside GDC 2
+2025_08_21_14_37_07  : 
+ Inside GDC 3
+2025_08_21_14_37_07  : 
+ Inside GDC 4
+2025_08_21_14_37_07  : 
+ Inside GDC 5
+2025_08_21_14_37_07  : 
+ Inside GDC 6
+2025_08_21_14_37_07  : 
+ Inside GDC 7
+2025_08_21_14_37_07  : 
+ Inside GDC 8
+2025_08_21_14_37_07  : 
+ Inside GDC 9
+2025_08_21_14_37_07  : 
+ Inside GDC 10
+2025_08_21_14_37_07  : 
+ Inside GDC 11
+2025_08_21_14_37_07  : 
+ Inside GDC 2
+2025_08_21_14_37_07  : 
+ Inside GDC 3
+2025_08_21_14_37_07  : 
+ Inside GDC 4
+2025_08_21_14_37_07  : 
+ Inside GDC 5
+2025_08_21_14_37_07  : 
+ Inside GDC 6
+2025_08_21_14_37_07  : 
+ Inside GDC 7
+2025_08_21_14_37_07  : 
+ Inside GDC 8
+2025_08_21_14_37_07  : 
+ Inside GDC 9
+2025_08_21_14_37_07  : 
+ Inside GDC 10
+2025_08_21_14_37_07  : 
+ Inside GDC 11
+2025_08_21_14_37_07  : 
+DepthVistaSDK:No of device connected : 1
+2025_08_21_14_37_07  : 
+ Inside GDInfo 1
+2025_08_21_14_37_07  : 
+ Inside GDInfo 2
+2025_08_21_14_37_07  : 
+ Inside GDInfo 3
+2025_08_21_14_37_07  : 
+ Inside GDInfo 4
+2025_08_21_14_37_07  : 
+ Inside GDInfo 5
+2025_08_21_14_37_07  : 
+ Inside GDInfo 6
+2025_08_21_14_37_07  : 
+ Inside GDInfo 7
+2025_08_21_14_37_07  : 
+ Inside GDInfo 8
+2025_08_21_14_37_07  : 
+ Inside GDInfo 9
+2025_08_21_14_37_07  : 
+ Inside GDInfo 10
+2025_08_21_14_37_07  : 
+ Inside GDInfo 11
+2025_08_21_14_37_07  : 
+ Inside GDInfo 12
+2025_08_21_14_37_07  : 
+ Inside GDInfo 13
+2025_08_21_14_37_07  : 
+ Inside GDInfo 14
+2025_08_21_14_37_07  : 
+ Inside GDInfo 15
+2025_08_21_14_37_07  : 
+ Inside GDInfo 16
+2025_08_21_14_37_07  : 
+ Inside GDInfo 17
+2025_08_21_14_37_07  : 
+ Inside GDInfo 18
+2025_08_21_14_37_07  : 
+ Inside GDInfo 19
+2025_08_21_14_37_07  : 
+ Inside GDInfo 20
+2025_08_21_14_37_07  : 
+ Inside GDInfo 21
+2025_08_21_14_37_07  : 
+ Inside GDInfo 4
+2025_08_21_14_37_07  : 
+ Inside GDInfo 5
+2025_08_21_14_37_07  : 
+ Inside GDInfo 6
+2025_08_21_14_37_07  : 
+ Inside GDInfo 7
+2025_08_21_14_37_07  : 
+ Inside GDInfo 8
+2025_08_21_14_37_07  : 
+ Inside GDInfo 9
+2025_08_21_14_37_07  : 
+ Inside GDInfo 10
+2025_08_21_14_37_07  : 
+ Inside GDInfo 11
+2025_08_21_14_37_07  : 
+ Inside GDInfo 19
+2025_08_21_14_37_07  : 
+ Inside GDInfo 20
+2025_08_21_14_37_07  : 
+ Inside GDInfo 21
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen false CameraNotOpened
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Parent Property value: USB\VID_2560&PID_C12D&MI_02\6&2b483752&0&0002
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:after FindEndpointBound
+wcscmp(g_HIDInstanceID, g_USBInstanceID)
+2025_08_21_14_37_10  : 
+DepthVistaSDK:IN IN_OUTBOUND
+2025_08_21_14_37_10  : 
+DepthVistaSDK:HID: InitExtensionUnit: Write Handle Set 
+2025_08_21_14_37_10  : 
+DepthVistaSDK:HID: InitExtensionUnit: Read Handle Set 
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Parent Property value: ACPI\INTC1077\2&daba3ff&0
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Parent Property value: ButtonConverter\ConvertedDevice\4&17172862&0&0
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Parent Property value: ACPI\INTC1077\2&daba3ff&0
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Parent Property value: USB\VID_2560&PID_C12D&MI_03\6&2b483752&0&0003
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_37_10  : 
+DepthVistaSDK:after FindEndpointBound
+wcscmp(g_HIDInstanceID, g_USBInstanceID)
+2025_08_21_14_37_10  : 
+DepthVistaSDK:Before OUTBOUND
+2025_08_21_14_37_10  : 
+DepthVistaSDK:both handles are opened
+2025_08_21_14_37_10  : 
+DepthVistaSDK:HID open success 1
+2025_08_21_14_37_58  : 
+DepthVistaSDK:Board Config Data Not found 
+2025_08_21_14_37_58  : 
+DepthVistaSDK:DeviceManager::CoCreateInstance -- passed
+2025_08_21_14_37_58  : 
+DepthVistaSDK:DeviceManager::CreateClassEnumerator -- passed
+2025_08_21_14_37_58  : 
+DepthVistaSDK:DeviceManager::Reset -- passed
+2025_08_21_14_37_58  : 
+DepthVistaSDK:DeviceManager::pEm->Next -- passed
+2025_08_21_14_37_58  : 
+DepthVistaSDK:DeviceManager::pM->BindToStorage -- passed
+2025_08_21_14_37_58  : 
+DepthVistaSDK: deviceIndexForNotification 0
+
+2025_08_21_14_37_58  : 
+DepthVistaSDK:DeviceManager::checking device path
+2025_08_21_14_37_58  : 
+DepthVistaSDK:DeviceManager::pM->wcscmp -- failed
+2025_08_21_14_37_58  : 
+DepthVistaSDK: pM->Release(); over....
+2025_08_21_14_37_58  : 
+ pCreateDevEnum->Release 1
+2025_08_21_14_37_58  : 
+DepthVistaSDK:Inside Closedevice  1
+2025_08_21_14_37_58  : 
+DepthVistaSDK:Inside Closedevice  1.5
+2025_08_21_14_37_58  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen false CameraNotOpened

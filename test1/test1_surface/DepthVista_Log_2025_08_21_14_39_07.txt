@@ -1,0 +1,1059 @@
+2025_08_21_14_39_07  : 
+ initialize called 1
+2025_08_21_14_39_07  : 
+ CoCreateInstance 1
+2025_08_21_14_39_07  : 
+ GetDeviceCount is_init 1
+2025_08_21_14_39_07  : 
+ Inside GDC 1
+2025_08_21_14_39_07  : 
+ Inside GDC 2
+2025_08_21_14_39_07  : 
+ Inside GDC 3
+2025_08_21_14_39_07  : 
+ Inside GDC 4
+2025_08_21_14_39_07  : 
+ Inside GDC 5
+2025_08_21_14_39_07  : 
+ Inside GDC 6
+2025_08_21_14_39_07  : 
+ Inside GDC 7
+2025_08_21_14_39_07  : 
+ Inside GDC 8
+2025_08_21_14_39_07  : 
+ Inside GDC 9
+2025_08_21_14_39_07  : 
+ Inside GDC 10
+2025_08_21_14_39_07  : 
+ Inside GDC 11
+2025_08_21_14_39_07  : 
+ Inside GDC 2
+2025_08_21_14_39_07  : 
+ Inside GDC 3
+2025_08_21_14_39_07  : 
+ Inside GDC 4
+2025_08_21_14_39_07  : 
+ Inside GDC 5
+2025_08_21_14_39_07  : 
+ Inside GDC 6
+2025_08_21_14_39_07  : 
+ Inside GDC 7
+2025_08_21_14_39_07  : 
+ Inside GDC 8
+2025_08_21_14_39_07  : 
+ Inside GDC 9
+2025_08_21_14_39_07  : 
+ Inside GDC 10
+2025_08_21_14_39_07  : 
+ Inside GDC 11
+2025_08_21_14_39_07  : 
+DepthVistaSDK:No of device connected : 1
+2025_08_21_14_39_07  : 
+DepthVistaSDK:Device index is : 0
+2025_08_21_14_39_07  : 
+ Inside GDInfo 1
+2025_08_21_14_39_07  : 
+ Inside GDInfo 2
+2025_08_21_14_39_07  : 
+ Inside GDInfo 3
+2025_08_21_14_39_07  : 
+ Inside GDInfo 4
+2025_08_21_14_39_07  : 
+ Inside GDInfo 5
+2025_08_21_14_39_07  : 
+ Inside GDInfo 6
+2025_08_21_14_39_07  : 
+ Inside GDInfo 7
+2025_08_21_14_39_07  : 
+ Inside GDInfo 8
+2025_08_21_14_39_07  : 
+ Inside GDInfo 9
+2025_08_21_14_39_07  : 
+ Inside GDInfo 10
+2025_08_21_14_39_07  : 
+ Inside GDInfo 11
+2025_08_21_14_39_07  : 
+ Inside GDInfo 12
+2025_08_21_14_39_07  : 
+ Inside GDInfo 13
+2025_08_21_14_39_07  : 
+ Inside GDInfo 14
+2025_08_21_14_39_07  : 
+ Inside GDInfo 15
+2025_08_21_14_39_07  : 
+ Inside GDInfo 16
+2025_08_21_14_39_07  : 
+ Inside GDInfo 17
+2025_08_21_14_39_07  : 
+ Inside GDInfo 18
+2025_08_21_14_39_07  : 
+ Inside GDInfo 19
+2025_08_21_14_39_07  : 
+ Inside GDInfo 20
+2025_08_21_14_39_07  : 
+ Inside GDInfo 21
+2025_08_21_14_39_07  : 
+ Inside GDInfo 4
+2025_08_21_14_39_07  : 
+ Inside GDInfo 5
+2025_08_21_14_39_07  : 
+ Inside GDInfo 6
+2025_08_21_14_39_07  : 
+ Inside GDInfo 7
+2025_08_21_14_39_07  : 
+ Inside GDInfo 8
+2025_08_21_14_39_07  : 
+ Inside GDInfo 9
+2025_08_21_14_39_07  : 
+ Inside GDInfo 10
+2025_08_21_14_39_07  : 
+ Inside GDInfo 11
+2025_08_21_14_39_07  : 
+ Inside GDInfo 19
+2025_08_21_14_39_07  : 
+ Inside GDInfo 20
+2025_08_21_14_39_07  : 
+ Inside GDInfo 21
+2025_08_21_14_39_07  : 
+DepthVistaSDK:Device Name is : See3CAM_TOF_25CUG
+2025_08_21_14_39_07  : 
+Serial Num of the Camera : 2B483752
+2025_08_21_14_39_07  : 
+ Initialize is_init 1
+2025_08_21_14_39_07  : 
+ GetDeviceCount is_init 1
+2025_08_21_14_39_07  : 
+ Inside GDC 1
+2025_08_21_14_39_07  : 
+ Inside GDC 2
+2025_08_21_14_39_07  : 
+ Inside GDC 3
+2025_08_21_14_39_07  : 
+ Inside GDC 4
+2025_08_21_14_39_07  : 
+ Inside GDC 5
+2025_08_21_14_39_07  : 
+ Inside GDC 6
+2025_08_21_14_39_07  : 
+ Inside GDC 7
+2025_08_21_14_39_07  : 
+ Inside GDC 8
+2025_08_21_14_39_07  : 
+ Inside GDC 9
+2025_08_21_14_39_07  : 
+ Inside GDC 10
+2025_08_21_14_39_07  : 
+ Inside GDC 11
+2025_08_21_14_39_07  : 
+ Inside GDC 2
+2025_08_21_14_39_07  : 
+ Inside GDC 3
+2025_08_21_14_39_07  : 
+ Inside GDC 4
+2025_08_21_14_39_07  : 
+ Inside GDC 5
+2025_08_21_14_39_07  : 
+ Inside GDC 6
+2025_08_21_14_39_07  : 
+ Inside GDC 7
+2025_08_21_14_39_07  : 
+ Inside GDC 8
+2025_08_21_14_39_07  : 
+ Inside GDC 9
+2025_08_21_14_39_07  : 
+ Inside GDC 10
+2025_08_21_14_39_07  : 
+ Inside GDC 11
+2025_08_21_14_39_07  : 
+DepthVistaSDK:No of device connected : 1
+2025_08_21_14_39_07  : 
+ Inside GDInfo 1
+2025_08_21_14_39_07  : 
+ Inside GDInfo 2
+2025_08_21_14_39_07  : 
+ Inside GDInfo 3
+2025_08_21_14_39_07  : 
+ Inside GDInfo 4
+2025_08_21_14_39_07  : 
+ Inside GDInfo 5
+2025_08_21_14_39_07  : 
+ Inside GDInfo 6
+2025_08_21_14_39_07  : 
+ Inside GDInfo 7
+2025_08_21_14_39_07  : 
+ Inside GDInfo 8
+2025_08_21_14_39_07  : 
+ Inside GDInfo 9
+2025_08_21_14_39_07  : 
+ Inside GDInfo 10
+2025_08_21_14_39_07  : 
+ Inside GDInfo 11
+2025_08_21_14_39_07  : 
+ Inside GDInfo 12
+2025_08_21_14_39_07  : 
+ Inside GDInfo 13
+2025_08_21_14_39_07  : 
+ Inside GDInfo 14
+2025_08_21_14_39_07  : 
+ Inside GDInfo 15
+2025_08_21_14_39_07  : 
+ Inside GDInfo 16
+2025_08_21_14_39_07  : 
+ Inside GDInfo 17
+2025_08_21_14_39_07  : 
+ Inside GDInfo 18
+2025_08_21_14_39_07  : 
+ Inside GDInfo 19
+2025_08_21_14_39_07  : 
+ Inside GDInfo 20
+2025_08_21_14_39_07  : 
+ Inside GDInfo 21
+2025_08_21_14_39_07  : 
+ Inside GDInfo 4
+2025_08_21_14_39_07  : 
+ Inside GDInfo 5
+2025_08_21_14_39_07  : 
+ Inside GDInfo 6
+2025_08_21_14_39_07  : 
+ Inside GDInfo 7
+2025_08_21_14_39_07  : 
+ Inside GDInfo 8
+2025_08_21_14_39_07  : 
+ Inside GDInfo 9
+2025_08_21_14_39_07  : 
+ Inside GDInfo 10
+2025_08_21_14_39_07  : 
+ Inside GDInfo 11
+2025_08_21_14_39_07  : 
+ Inside GDInfo 19
+2025_08_21_14_39_07  : 
+ Inside GDInfo 20
+2025_08_21_14_39_07  : 
+ Inside GDInfo 21
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen false CameraNotOpened
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Parent Property value: USB\VID_2560&PID_C12D&MI_02\6&2b483752&0&0002
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:after FindEndpointBound
+wcscmp(g_HIDInstanceID, g_USBInstanceID)
+2025_08_21_14_39_09  : 
+DepthVistaSDK:IN IN_OUTBOUND
+2025_08_21_14_39_09  : 
+DepthVistaSDK:HID: InitExtensionUnit: Write Handle Set 
+2025_08_21_14_39_09  : 
+DepthVistaSDK:HID: InitExtensionUnit: Read Handle Set 
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Parent Property value: ACPI\INTC1077\2&daba3ff&0
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Parent Property value: ButtonConverter\ConvertedDevice\4&17172862&0&0
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Parent Property value: ACPI\INTC1077\2&daba3ff&0
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Parent Property value: ACPI\VEN_06CB\4&300f5be9&0
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Erorr Finding Endpoint bound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Parent Property value: USB\VID_2560&PID_C12D&MI_03\6&2b483752&0&0003
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before comparing vid and pid
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before FindEndpointBound
+2025_08_21_14_39_09  : 
+DepthVistaSDK:after FindEndpointBound
+wcscmp(g_HIDInstanceID, g_USBInstanceID)
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Before OUTBOUND
+2025_08_21_14_39_09  : 
+DepthVistaSDK:both handles are opened
+2025_08_21_14_39_09  : 
+DepthVistaSDK:HID open success 1
+2025_08_21_14_39_09  : 
+DepthVistaSDK:Board Config Data : 112101122311111111011
+2025_08_21_14_39_09  : 
+DepthVistaSDK:DeviceManager::CoCreateInstance -- passed
+2025_08_21_14_39_09  : 
+DepthVistaSDK:DeviceManager::CreateClassEnumerator -- passed
+2025_08_21_14_39_09  : 
+DepthVistaSDK:DeviceManager::Reset -- passed
+2025_08_21_14_39_09  : 
+DepthVistaSDK:DeviceManager::pEm->Next -- passed
+2025_08_21_14_39_09  : 
+DepthVistaSDK:DeviceManager::pM->BindToStorage -- passed
+2025_08_21_14_39_09  : 
+DepthVistaSDK:DeviceManager::checking device path
+2025_08_21_14_39_09  : 
+DepthVistaSDK:DeviceManager::pM->wcscmp -- passed
+2025_08_21_14_39_10  : 
+DepthVistaSDK:DeviceManager::pM->KSTopologyInitialize -- passed
+2025_08_21_14_39_10  : 
+DepthVistaSDK:InitExtensionunit :: IksControlInitialize passed....
+2025_08_21_14_39_10  : 
+DepthVistaSDK:DeviceManager::pM->BindToObject hr value : 0
+2025_08_21_14_39_10  : 
+DepthVistaSDK:DeviceManager::pM->BindToObject hr success
+2025_08_21_14_39_10  : 
+ pCreateDevEnum->Release 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:UVC open success 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_39_10  : 
+DepthVistaSDK:width is 1280
+Height is 600
+2025_08_21_14_39_10  : 
+DepthVistaSDK:uNum is 30
+uDeno is 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:PixFormat is Y16
+2025_08_21_14_39_10  : 
+DepthVistaSDK:getFormat success and format is 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:width is 1280
+Height is 600
+2025_08_21_14_39_10  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_39_10  : 
+DepthVistaSDK:CAM open success 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_39_10  : 
+DepthVistaSDK:width is 1280
+Height is 600
+2025_08_21_14_39_10  : 
+DepthVistaSDK:uNum is 30
+uDeno is 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:PixFormat is Y16
+2025_08_21_14_39_10  : 
+DepthVistaSDK:format : 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:OnReadSample::pSample is failed
+2025_08_21_14_39_10  : 
+DepthVistaSDK:OpenDevice - GetDataMode success 4
+2025_08_21_14_39_10  : 
+DepthVistaSDK:OpenDevice - GetDepthRange success 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:ReadCalibrationData Data Write Success
+2025_08_21_14_39_10  : 
+DepthVistaSDK:ReadTOFCalibrationData success g_out_packet_buf[ARRAY_ELEMENT_6] = 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:ReadTOFCalibrationData success g_out_packet_buf[ARRAY_ELEMENT_6] = 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:ReadTOFCalibrationData success g_out_packet_buf[ARRAY_ELEMENT_6] = 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:ReadTOFCalibrationData success g_out_packet_buf[ARRAY_ELEMENT_6] = 1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:ReadTOFCalibrationData Return true
+2025_08_21_14_39_10  : 
+DepthVistaSDK:OpenDevice - TOF calibration data read success
+2025_08_21_14_39_10  : 
+DepthVistaSDK:depthIntrinsicFlag : -1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:rgbIntrinsicFlag : -1
+2025_08_21_14_39_10  : 
+DepthVistaSDK:stereoExtrinsicFlag : -1
+2025_08_21_14_39_11  : 
+DepthVistaSDK:width is 1280
+Height is 600
+2025_08_21_14_39_11  : 
+DepthVistaSDK:uNum is 30
+uDeno is 1
+2025_08_21_14_39_11  : 
+DepthVistaSDK:PixFormat is Y16
+2025_08_21_14_39_11  : 
+DepthVistaSDK:format : 1
+2025_08_21_14_39_12  : 
+DepthVistaSDK:Maxlength in setup frame is 4608000
+2025_08_21_14_39_12  : 
+DepthVistaSDK:Maxlength in GetNextFrame is 4608000
+2025_08_21_14_39_12  :  Cam: 0FPS in device : 31
+2025_08_21_14_39_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_14  :  Cam: 0FPS in device : 31
+2025_08_21_14_39_15  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_21  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_26  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_39_26  : 
+DepthVistaSDK:Stopping stream in sdk success
+2025_08_21_14_39_26  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_26  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_26  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_27  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_27  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_27  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_27  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_27  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_28  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_28  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_28  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_28  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_28  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_29  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_39_29  : 
+DepthVistaSDK:try_format success and format is 1
+2025_08_21_14_39_29  : 
+DepthVistaSDK:Cam: 0 isMediaSourceOpen true CameraAlreadyOpen
+2025_08_21_14_39_29  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_29  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_29  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_29  : 
+DepthVistaSDK:DWORD dWait WAIT_TIMEOUT
+2025_08_21_14_39_29  :  Cam: 0FPS in device : 20
+2025_08_21_14_39_30  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_32  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_36  :  Cam: 0FPS in device : 31
+2025_08_21_14_39_37  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_41  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_43  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_45  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_47  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_49  :  Cam: 0FPS in device : 31
+2025_08_21_14_39_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_55  :  Cam: 0FPS in device : 31
+2025_08_21_14_39_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_39_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_04  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_05  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_07  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_08  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_09  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_10  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_11  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_12  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_14  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_15  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_16  :  Cam: 0FPS in device : 31
+2025_08_21_14_40_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_21  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_26  :  Cam: 0FPS in device : 31
+2025_08_21_14_40_27  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_30  :  Cam: 0FPS in device : 31
+2025_08_21_14_40_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_32  :  Cam: 0FPS in device : 31
+2025_08_21_14_40_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_37  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_41  :  Cam: 0FPS in device : 31
+2025_08_21_14_40_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_43  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_45  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_47  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_49  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_52  :  Cam: 0FPS in device : 31
+2025_08_21_14_40_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_40_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_04  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_05  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_07  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_08  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_09  :  Cam: 0FPS in device : 31
+2025_08_21_14_41_10  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_11  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_12  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_14  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_15  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_19  : 
+DepthVistaSDK:GetDepthIRValues internal index is  : 0
+2025_08_21_14_41_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_21  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_25  :  Cam: 0FPS in device : 31
+2025_08_21_14_41_26  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_27  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_29  :  Cam: 0FPS in device : 31
+2025_08_21_14_41_30  :  Cam: 0FPS in device : 31
+2025_08_21_14_41_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_32  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_37  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_41  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_43  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_45  :  Cam: 0FPS in device : 31
+2025_08_21_14_41_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_47  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_49  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_53  :  Cam: 0FPS in device : 31
+2025_08_21_14_41_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_41_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_04  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_05  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_07  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_08  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_09  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_10  :  Cam: 0FPS in device : 31
+2025_08_21_14_42_11  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_12  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_14  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_15  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_21  : 
+DepthVistaSDK:GetDepthIRValues internal index is  : 0
+2025_08_21_14_42_21  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_26  :  Cam: 0FPS in device : 31
+2025_08_21_14_42_27  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_29  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_30  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_32  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_37  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_41  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_43  :  Cam: 0FPS in device : 31
+2025_08_21_14_42_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_45  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_47  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_49  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_42_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_04  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_05  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_07  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_08  :  Cam: 0FPS in device : 31
+2025_08_21_14_43_09  :  Cam: 0FPS in device : 31
+2025_08_21_14_43_10  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_11  :  Cam: 0FPS in device : 31
+2025_08_21_14_43_12  :  Cam: 0FPS in device : 31
+2025_08_21_14_43_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_14  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_15  :  Cam: 0FPS in device : 31
+2025_08_21_14_43_16  :  Cam: 0FPS in device : 31
+2025_08_21_14_43_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_20  :  Cam: 0FPS in device : 31
+2025_08_21_14_43_21  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_26  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_27  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_29  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_30  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_32  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_37  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_41  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_43  :  Cam: 0FPS in device : 31
+2025_08_21_14_43_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_45  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_47  :  Cam: 0FPS in device : 31
+2025_08_21_14_43_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_49  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_43_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_02  : 
+DepthVistaSDK:GetDepthIRValues internal index is  : 0
+2025_08_21_14_44_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_04  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_05  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_07  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_08  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_09  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_10  :  Cam: 0FPS in device : 31
+2025_08_21_14_44_11  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_12  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_13  :  Cam: 0FPS in device : 31
+2025_08_21_14_44_14  :  Cam: 0FPS in device : 31
+2025_08_21_14_44_15  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_17  :  Cam: 0FPS in device : 31
+2025_08_21_14_44_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_21  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_23  :  Cam: 0FPS in device : 31
+2025_08_21_14_44_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_26  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_27  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_29  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_30  :  Cam: 0FPS in device : 31
+2025_08_21_14_44_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_32  :  Cam: 0FPS in device : 31
+2025_08_21_14_44_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_37  :  Cam: 0FPS in device : 31
+2025_08_21_14_44_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_41  :  Cam: 0FPS in device : 31
+2025_08_21_14_44_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_43  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_45  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_47  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_49  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_55  : 
+DepthVistaSDK:GetDepthIRValues internal index is  : 0
+2025_08_21_14_44_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_44_59  :  Cam: 0FPS in device : 31
+2025_08_21_14_45_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_04  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_05  :  Cam: 0FPS in device : 31
+2025_08_21_14_45_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_07  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_08  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_09  :  Cam: 0FPS in device : 31
+2025_08_21_14_45_10  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_11  :  Cam: 0FPS in device : 31
+2025_08_21_14_45_12  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_14  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_15  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_21  :  Cam: 0FPS in device : 31
+2025_08_21_14_45_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_25  :  Cam: 0FPS in device : 31
+2025_08_21_14_45_26  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_27  :  Cam: 0FPS in device : 31
+2025_08_21_14_45_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_29  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_30  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_32  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_37  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_41  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_43  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_45  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_47  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_49  :  Cam: 0FPS in device : 31
+2025_08_21_14_45_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_45_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_04  :  Cam: 0FPS in device : 31
+2025_08_21_14_46_05  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_07  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_08  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_09  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_10  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_11  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_12  :  Cam: 0FPS in device : 31
+2025_08_21_14_46_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_14  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_15  :  Cam: 0FPS in device : 31
+2025_08_21_14_46_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_21  :  Cam: 0FPS in device : 31
+2025_08_21_14_46_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_26  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_27  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_29  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_30  :  Cam: 0FPS in device : 31
+2025_08_21_14_46_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_32  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_37  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_41  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_42  :  Cam: 0FPS in device : 31
+2025_08_21_14_46_43  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_45  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_47  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_49  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_57  :  Cam: 0FPS in device : 31
+2025_08_21_14_46_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_46_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_04  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_05  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_07  :  Cam: 0FPS in device : 31
+2025_08_21_14_47_08  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_09  :  Cam: 0FPS in device : 31
+2025_08_21_14_47_10  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_11  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_12  :  Cam: 0FPS in device : 31
+2025_08_21_14_47_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_14  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_15  :  Cam: 0FPS in device : 31
+2025_08_21_14_47_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_17  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_19  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_20  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_21  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_24  :  Cam: 0FPS in device : 31
+2025_08_21_14_47_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_26  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_27  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_29  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_30  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_32  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_33  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_37  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_41  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_43  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_45  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_46  :  Cam: 0FPS in device : 31
+2025_08_21_14_47_47  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_49  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_58  :  Cam: 0FPS in device : 30
+2025_08_21_14_47_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_00  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_01  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_04  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_05  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_06  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_07  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_08  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_09  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_10  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_11  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_12  :  Cam: 0FPS in device : 31
+2025_08_21_14_48_13  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_14  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_15  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_16  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_17  :  Cam: 0FPS in device : 31
+2025_08_21_14_48_18  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_19  :  Cam: 0FPS in device : 31
+2025_08_21_14_48_20  :  Cam: 0FPS in device : 31
+2025_08_21_14_48_21  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_22  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_23  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_24  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_25  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_26  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_27  :  Cam: 0FPS in device : 31
+2025_08_21_14_48_28  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_29  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_30  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_31  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_32  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_33  :  Cam: 0FPS in device : 31
+2025_08_21_14_48_34  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_35  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_36  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_37  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_38  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_39  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_40  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_41  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_42  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_43  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_44  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_45  :  Cam: 0FPS in device : 31
+2025_08_21_14_48_46  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_47  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_48  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_49  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_50  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_51  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_52  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_53  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_54  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_55  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_56  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_57  :  Cam: 0FPS in device : 30
+2025_08_21_14_48_58  :  Cam: 0FPS in device : 31
+2025_08_21_14_48_59  :  Cam: 0FPS in device : 30
+2025_08_21_14_49_01  :  Cam: 0FPS in device : 31
+2025_08_21_14_49_02  :  Cam: 0FPS in device : 30
+2025_08_21_14_49_03  :  Cam: 0FPS in device : 30
+2025_08_21_14_49_04  :  Cam: 0FPS in device : 30
+2025_08_21_14_49_05  :  Cam: 0FPS in device : 31
